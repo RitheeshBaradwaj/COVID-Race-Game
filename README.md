@@ -4,7 +4,7 @@ A 2d <b>Covid Race Game</b> is created using python and pygame library. Also use
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/developers-cosmos/COVID-Race-Game/graphs/commit-activity) ![GitHub language count](http://img.shields.io/github/languages/count/developers-cosmos/COVID-Race-Game) ![GitHub repo size](https://img.shields.io/github/repo-size/developers-cosmos/COVID-Race-Game)
 
-
+For implementation visit my article on [medium](https://medium.com/towards-artificial-intelligence/how-i-developed-a-game-using-computer-vision-18409a39a1f3)
 ## Run :runner:
 
 To run the Game on your desktop clone the repository and run the below command.<br>
